@@ -11,6 +11,6 @@ newh2.innerText = "CSE 121b";
 newSection.appendChild(newh2);
 const newp = document.createElement("p");
 newp.innerText = "Welcome to Javascript language";
-
+newSection.appendChild(newp);
 
 document.body.appentChild(sewSection);
