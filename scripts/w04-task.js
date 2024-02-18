@@ -16,11 +16,8 @@ let myProfile = {
         'Playing Games',
         'Playing Japanese Chess'
     ],
-    plceLived:[
-        'Sapporo, Japan',
-        'Utah provo',
-        'Sao Paulo, Brasil',
-        'Nagoya, Japan'
+    placeLived:[
+        
     ],
 
 
@@ -66,15 +63,40 @@ myProfile.placeLived.push(
 /* Name */
 document.getElementById('name').textContent = myProfile.name;
 /* Photo with attributes */
-const photoEl = document.getElementByid('photo');
-photoEl.alt = myProfile.photo;
+const photoEl = document.getElementById('photo');
+photoEl.src = myProfile.photo;
+photoEl.alt = myProfile.name;
+
 
 /* Favorite Foods List*/
+let favoriteFoodContent = document.getElementById('favorite-foods')
+myProfile.favoriteFoods.forEach(food =>{
+    let newLi = document.createElement('li');
+    newLi.textContent = food;
+    favoriteFoodContent.append(newLi)
+});
 
 
 /* Hobbies List */
+let hobbiesContent = document.getElementById('hobbies')
+myProfile.hobbies.forEach(hobby =>{
+    let newUl = document.createElement('ul');
+    newUl.textContent = hobby;
+    hobbiesContent.append(newUl);
+});
 
 
 /* Places Lived DataList */
+let livedList = document.getElementById('places-lived')
+myProfile.placeLived.forEach(places =>{
+    let newDt = document.createElement('dt');
+    newDt.textContent = places.place;
+    livedList.appendChild(newDt);
+    let newDd = document.createElement('dd');
+    newDd.textContent = places.length;
+    livedList.appendChild(newDd);
+});
+
+
 
 
