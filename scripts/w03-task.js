@@ -86,19 +86,18 @@ let odds = numbers.filter(num => num%2 !== 0);
 let oddNumbers = odds.join(', ');
 document.getElementById('odds').innerHTML = oddNumbers;
 /* Output Evens Only Array */
-let evens = filter(num => num%2 === 0);
+let evens = numbers.filter(num => num%2 === 0);
 let evenNumbers = odds.join(', ');
-document.getElementById('evens').innerText = evenNumbers;
+document.getElementById('evens').innerHTML = evenNumbers;
 /* Output Sum of Org. Array */
 let sums = numbers.reduce((sum,number)=>sum + number);
-document.getElementById('sumOfArray').inneText = sums;
+document.getElementById('sumOfArray').innerHTML = sums;
 /* Output Multiplied by 2 Array */
 let multiply2 = numbers.map(num => num*2);
 let multiplied=multiply2.join(', ')
-document.getElementById('multiplied').inneText = multiplied;
+document.getElementById('multiplied').innerHTML = multiplied;
 
 /* Output Sum of Multiplied by 2 Array */
 let sumMulti = numbers.map(num=>num*2);
 let sumMultied = sumMulti.reduce((sum, number)=>sum + number);
-let SumMultiArray = sumMultied.join(', ')
-document.getElementById('multiplied').innerHTML = SumMultiArray;
+document.getElementById('sumOfMultiplied').textContent = sumMultied;
