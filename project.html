@@ -4,13 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Member Records</title>
-    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/final.css">
 </head>
 <body>
-    <header>Member Records in Rex Blanch</header>
+    <header>
+    <p><strong> Records of Rex Blanch</strong></p>
+    
+    </header>
     <main>
         <select id="filter" title="choose">
-            <option value="" disable selected></option>
+            <option value="everyone">Everyone</option>
             <option value="male" >Brothers</option>
             <option value="female" >Sisters</option>
             <option value="married" >Not married</option>
@@ -21,7 +24,7 @@
             <option value="older" >From Older</option>
             <option value="younger" >From Younger</option>
         </select>
-
+        <div id="count"></div>
         <div id="members"></div>
     </main>
     <footer>
