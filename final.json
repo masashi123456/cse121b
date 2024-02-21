@@ -5,7 +5,8 @@
         "gender": "Male",
         "from": "Brazil",
         "married": "Yes",
-        "assignment": "N/A"
+        "assignment": "N/A",
+        "url": "https://masashi123456.github.io/cse121b/images/man.png"
     } ,
     {
         "name": "Joel Joestar",
@@ -13,7 +14,8 @@
         "gender": "Male",
         "from": "England",
         "married": "Yes",
-        "assignment": "Bishop"
+        "assignment": "Bishop",
+        "url": "https://masashi123456.github.io/cse121b/images/man.png"
     } ,
     {
         "name": "Joshua Joestar",
@@ -21,7 +23,8 @@
         "gender": "Male",
         "from": "England",
         "married": "No",
-        "assignment": "N/A"
+        "assignment": "N/A",
+        "url": "https://masashi123456.github.io/cse121b/images/man.png"
     } ,
     {
         "name": "Jordan Joestar",
@@ -37,113 +40,108 @@
         "gender": "Female",
         "from": "England",
         "married": "Yes",
-        "assignment": "President of Relief Society"
+        "assignment": "President of Relief Society",
+        "url": "https://masashi123456.github.io/cse121b/images/woman.png"
     } ,
     {
-        "name": "Masashi Ota",
-        "age": 25,
+        "name": "Taro Higashikata",
+        "age": 23,
         "gender": "Male",
-        "from": "Brazil",
+        "from": "Japan",
         "married": "Yes",
-        "assignment": "N/A"
-    } ,
-    {
-        "name": "Masashi Ota",
-        "age": 25,
-        "gender": "Male",
-        "from": "Brazil",
-        "married": "Yes",
-        "assignment": "N/A"
-    } ,
-    {
-        "name": "Masashi Ota",
-        "age": 25,
-        "gender": "Male",
-        "from": "Brazil",
-        "married": "Yes",
-        "assignment": "N/A"
-    } ,
-    {
-        "name": "Masashi Ota",
-        "age": 25,
-        "gender": "Male",
-        "from": "Brazil",
-        "married": "Yes",
-        "assignment": "N/A"
-    } ,
-    {
-        "name": "Masashi Ota",
-        "age": 25,
-        "gender": "Male",
-        "from": "Brazil",
-        "married": "Yes",
-        "assignment": "N/A"
-    } ,
-    {
-        "name": "Masashi Ota",
-        "age": 25,
-        "gender": "Male",
-        "from": "Brazil",
-        "married": "Yes",
-        "assignment": "N/A"
-    } ,
-    {
-        "name": "Masashi Ota",
-        "age": 25,
-        "gender": "Male",
-        "from": "Brazil",
-        "married": "Yes",
-        "assignment": "N/A"
-    } ,
-    {
-        "name": "Masashi Ota",
-        "age": 25,
-        "gender": "Male",
-        "from": "Brazil",
-        "married": "Yes",
-        "assignment": "N/A"
-    } ,
-    {
-        "name": "Masashi Ota",
-        "age": 25,
-        "gender": "Male",
-        "from": "Brazil",
-        "married": "Yes",
-        "assignment": "N/A"
-    } ,
-    {
-        "name": "Masashi Ota",
-        "age": 25,
-        "gender": "Male",
-        "from": "Brazil",
-        "married": "Yes",
-        "assignment": "N/A"
-    } ,
-    {
-        "name": "Masashi Ota",
-        "age": 25,
-        "gender": "Male",
-        "from": "Brazil",
-        "married": "Yes",
-        "assignment": "N/A"
-    } ,
-    {
-        "name": "Masashi Ota",
-        "age": 25,
-        "gender": "Male",
-        "from": "Brazil",
-        "married": "Yes",
-        "assignment": "N/A"
-    } ,
-    {
-        "name": "Masashi Ota",
-        "age": 25,
-        "gender": "Male",
-        "from": "Brazil",
-        "married": "Yes",
-        "assignment": "N/A"
-    } ,
+        "assignment": "Bishopric presidency",
+        "url": "https://masashi123456.github.io/cse121b/images/man.png"
 
+    } ,
+    {
+        "name": "Jotaro Johnson",
+        "age": 25,
+        "gender": "Male",
+        "from": "Japan",
+        "married": "Yes",
+        "assignment": "N/A",
+        "url": "https://masashi123456.github.io/cse121b/images/man.png"
+    } ,
+    {
+        "name": "Jacklyn Jimenez",
+        "age": 25,
+        "gender": "Female",
+        "from": "America",
+        "married": "Yes",
+        "assignment": "N/A",
+        "url": "https://masashi123456.github.io/cse121b/images/woman.png"
+
+    } ,
+    {
+        "name": "Jamie Johnson",
+        "age": 25,
+        "gender": "America",
+        "from": "Brazil",
+        "married": "Yes",
+        "assignment": "N/A",
+        "url": "https://masashi123456.github.io/cse121b/images/woman.png"
+
+    } ,
+    {
+        "name": "Jasmin Higashikata",
+        "age": 45,
+        "gender": "Female",
+        "from": "Japan",
+        "married": "Yes",
+        "assignment": "N/A",
+        "url": "https://masashi123456.github.io/cse121b/images/woman.png"
+
+    } ,
+    {
+        "name": "Jacob Jackman",
+        "age": 6,
+        "gender": "Male",
+        "from": "America",
+        "married": "No",
+        "assignment": "N/A",
+        "url": "https://masashi123456.github.io/cse121b/images/man.png"
+
+    } ,
+    {
+        "name": "Josuke Jansen",
+        "age": 12,
+        "gender": "Male",
+        "from": "America",
+        "married": "No",
+        "assignment": "N/A",
+        "url": "https://masashi123456.github.io/cse121b/images/man.png"
+
+    } ,
+    {
+        "name": "Ryu Jansen",
+        "age": 35,
+        "gender": "Male",
+        "from": "America",
+        "married": "Yes",
+        "assignment": "N/A",
+        "url": "https://masashi123456.github.io/cse121b/images/man.png"
+
+    } ,
+    {
+        "name": "Jean Jansen",
+        "age": 35,
+        "gender": "Female",
+        "from": "America",
+        "married": "Yes",
+        "assignment": "N/A",
+        "url": "https://masashi123456.github.io/cse121b/images/woman.png"
+
+    } ,
+    {
+        "name": "Eileen Ota",
+        "age": 25,
+        "gender": "Male",
+        "from": "Brazil",
+        "married": "Yes",
+        "assignment": "N/A",
+        "url": "https://masashi123456.github.io/cse121b/images/woman.png"
+
+    } 
     
 
 ]
