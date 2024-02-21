@@ -52,6 +52,14 @@ const filterMembers = (members) =>{
             const ysa = members.filter(member=>member.age > 17 && member.age < 31 && member.married === 'No') ;
             displayMembers(ysa);
             break;
+        case 'youth':
+            const youth = members.filter(member=>member.age > 11 && member.age < 18) ;
+            displayMembers(youth);
+            break;
+        case 'primary':
+            const primary = members.filter(member.age < 11) ;
+            displayMembers(prmary);
+            break;
         case 'male':
             const male = members.filter(member=>member.gender === 'Male');
             displayMembers(male);
