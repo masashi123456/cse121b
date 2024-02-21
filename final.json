@@ -1,3 +1,4 @@
+
 [
     {
         "name": "Masashi Ota",
@@ -32,7 +33,9 @@
         "gender": "Male",
         "from": "England",
         "married": "No",
-        "assignment": "Deacon Quorum President"
+        "assignment": "Deacon Quorum President",
+        "url": "https://masashi123456.github.io/cse121b/images/man.png"
+
     } ,
     {
         "name": "Sarah Joestar",
@@ -135,10 +138,90 @@
     {
         "name": "Eileen Ota",
         "age": 25,
-        "gender": "Male",
+        "gender": "Female",
         "from": "Brazil",
         "married": "Yes",
-        "assignment": "N/A",
+        "assignment": "Primary Teacher",
+        "url": "https://masashi123456.github.io/cse121b/images/woman.png"
+
+    },
+    {
+        "name": "Satoru Ota",
+        "age": 27,
+        "gender": "Male",
+        "from": "Japan",
+        "married": "No",
+        "assignment": "Sunday School Teacher",
+        "url": "https://masashi123456.github.io/cse121b/images/man.png"
+
+    } ,
+    {
+        "name": "Naomi Bob",
+        "age": 21,
+        "gender": "Female",
+        "from": "Spein",
+        "married": "No",
+        "assignment": "Youth teacher",
+        "url": "https://masashi123456.github.io/cse121b/images/woman.png"
+
+    },
+    {
+        "name": "Eileen Takeda",
+        "age": 18,
+        "gender": "Female",
+        "from": "Brazil",
+        "married": "No",
+        "assignment": "Pianist",
+        "url": "https://masashi123456.github.io/cse121b/images/woman.png"
+
+    },
+    {
+        "name": "Jessie Olsen",
+        "age": 22,
+        "gender": "Male",
+        "from": "Brazil",
+        "married": "No",
+        "assignment": "Primary Teacher",
+        "url": "https://masashi123456.github.io/cse121b/images/man.png"
+
+    }, 
+    {
+        "name": "Eileen Olsen",
+        "age": 14,
+        "gender": "Female",
+        "from": "Brazil",
+        "married": "No",
+        "assignment": "Primary Teacher",
+        "url": "https://masashi123456.github.io/cse121b/images/woman.png"
+
+    },
+    {
+        "name": "Takeshi Scott",
+        "age": 14,
+        "gender": "Male",
+        "from": "Brazil",
+        "married": "No",
+        "assignment": "Primary Teacher",
+        "url": "https://masashi123456.github.io/cse121b/images/man.png"
+
+    },
+    {
+        "name": "Ryu Johnson",
+        "age": 12,
+        "gender": "Male",
+        "from": "Brazil",
+        "married": "No",
+        "assignment": "Primary Teacher",
+        "url": "https://masashi123456.github.io/cse121b/images/man.png"
+
+    }, 
+    {
+        "name": "Anna Ota",
+        "age": 9,
+        "gender": "Female",
+        "from": "Brazil",
+        "married": "No",
+        "assignment": "Primary Teacher",
         "url": "https://masashi123456.github.io/cse121b/images/woman.png"
 
     } 
